@@ -41,7 +41,7 @@ If you want a closer feel to iA Writer install
 
 ### Screenshots
 
-![vim](./screen.png)
+![vim](./screenshot.png)
 
 ## Thanks
 
